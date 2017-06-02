@@ -1,0 +1,21 @@
+PODS:
+  - TKInsertCodeView (1.0.0)
+
+DEPENDENCIES:
+  - TKInsertCodeView (from `https://github.com/tokenlab/TKInsertCodeView.git`)
+
+EXTERNAL SOURCES:
+  TKInsertCodeView:
+    :git: https://github.com/tokenlab/TKInsertCodeView.git
+
+CHECKOUT OPTIONS:
+  TKInsertCodeView:
+    :commit: 968fcc3deeda5e478429e13bbb359f12850238ae
+    :git: https://github.com/tokenlab/TKInsertCodeView.git
+
+SPEC CHECKSUMS:
+  TKInsertCodeView: 34525633e1e4fc81a1fb9ba6a837673db52f51bb
+
+PODFILE CHECKSUM: a582695a3d5cbe88f14ed0991729c0070a4d440c
+
+COCOAPODS: 1.2.1

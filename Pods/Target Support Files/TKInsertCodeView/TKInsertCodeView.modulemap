@@ -1,0 +1,6 @@
+framework module TKInsertCodeView {
+  umbrella header "TKInsertCodeView-umbrella.h"
+
+  export *
+  module * { export * }
+}
